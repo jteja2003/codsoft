@@ -13,8 +13,7 @@ task 2:restaurant menu
 
 ![e commers – Figma - Google Chrome 12_4_2023 8_06_46 PM](https://github.com/jteja2003/codsoft/assets/100864239/22633e5c-b992-49cd-9c13-2f49d7a87132)
 
-
-https://www.linkedin.com/posts/jonnavithula-teja-srivaishnavi-56385b227_codsoft-codsoftinternship-intership-activity-7134464666096861184-22bA?utm_source=share&utm_medium=member_desktop
+https://www.figma.com/file/B709VEIl2jXK4obdCsB8zU/menu?type=design&mode=design&t=JIXJy2QhyifcWqfC-1
 
 
 task 3: E-COMMERCE WEBSITE
